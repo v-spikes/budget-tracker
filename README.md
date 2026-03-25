@@ -101,9 +101,7 @@ across Jan–Mar 2025 if no data file is found.
 
 
 
-Credits:
-
----
+## Credits:
 
 Thank you [Hoang Anh](https://www.instagram.com/hoaanh.02/) for the png files.
 
