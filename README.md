@@ -111,7 +111,7 @@ Thanks to [Johnny](https://www.instagram.com/johnny\_45.1/) for the C++ and HTML
 \---
 
 
-## The stories behind:
+## The story behind:
 
 I was motivated to do this as I've just taken a data analytics course, and as an econometrics student, I wanted to try my hand at financial analysis thingy during my midterm break.
 
