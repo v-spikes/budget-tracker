@@ -103,8 +103,9 @@ across Jan–Mar 2026 if no data file is found.
 
 ## Credits:
 
-Thank you [Hoang Anh](https://www.instagram.com/hoaanh.02/) for the png files
-Thank you [Johnny](https://www.instagram.com/johnny\_45.1/) for the C++ and HTML codes. 
+Thanks to [Hoang Anh](https://www.instagram.com/hoaanh.02/) for the png files. 
+
+Thanks to [Johnny](https://www.instagram.com/johnny\_45.1/) for the C++ and HTML codes. 
 
 
 \---
