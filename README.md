@@ -105,9 +105,9 @@ Credits:
 
 ---
 
-Thank you \[Hoang Anh](https://www.instagram.com/hoaanh.02/) for the png files.
+Thank you [Hoang Anh](https://www.instagram.com/hoaanh.02/) for the png files.
 
 
 
-Thank you \[Johnny](https://www.instagram.com/johnny\_45.1/) for the C++ and HTML codes. 
+Thank you [Johnny](https://www.instagram.com/johnny\_45.1/) for the C++ and HTML codes. 
 
