@@ -85,7 +85,7 @@ python3 analytics.py
 ## Sample Data
 
 Both Python and the HTML dashboard auto-seed 16 sample transactions
-across Jan–Mar 2025 if no data file is found.
+across Jan–Mar 2026 if no data file is found.
 
 \---
 
